@@ -5,5 +5,7 @@ Dependencies:
 pip install bs4 // Beautiful soup 4 -  HTML Parser
 pip install requests // Python URL encoding, response handling, and session maintenance for scraper component.
 
-After running dependencies, scarpes NIFC database to gather preparesness levels. Correlates local fire department info to display local fire danger in cartton-like GUI. Spits our fire weather report in the shell.
+After running dependencies, scrapes NIFC database to gather preparedness levels. Correlates local fire department info with local fire danger in a whimsical GUI. Prints out fire weather report in the shell. To toggle the print out reassign DEBUG.
+
+
 
